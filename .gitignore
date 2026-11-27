@@ -1,0 +1,5 @@
+build/
+cmake-build-*/
+.pacman_highscore
+.pacman_highscore.tmp
+.DS_Store
